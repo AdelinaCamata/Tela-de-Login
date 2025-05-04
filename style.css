@@ -50,5 +50,11 @@ body{
     margin: 0;
 }
 
+.textfield{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
 
 

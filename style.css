@@ -6,4 +6,7 @@ body{
     width: 100vw;
     height: 100vh;
     background: #201b2c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
